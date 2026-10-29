@@ -64,5 +64,94 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Appyai is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by founder-collective) and added to the network as a stub for full-pipeline profiling.
-- https://appy.ai/
+Appyai provides AI-driven analytics and automation solutions for businesses, enabling data-driven decision making through advanced machine learning models, real-time insights, and customizable dashboards. Founded by a collective of experienced entrepreneurs, the company focuses on delivering scalable, secure, and easy-to-integrate APIs that empower developers to embed intelligent features into their applications. Backed by founder-collective, Appyai aims to accelerate digital transformation across industries.
+
+**Areas:** Company · AI · Analytics · Automation · Machine-Learning
+
+## Appyai on APIs.io
+
+Everything profiled for Appyai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/appyai/](https://apis.io/providers/appyai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Appyai Domain Security](https://apis.io/security/appyai/appyai-domain-security/)
+- [Appyai Trust Center](https://apis.io/security/appyai/appyai-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Appyai Plans Pricing](https://apis.io/plans/appyai/appyai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://appy.ai/)
+- [Documentation](https://help.appy.ai/)
+- [Getting started](https://help.appy.ai/your-ai-team/installation)
+- [Pricing](https://appy.ai/company/pricing)
+- [Changelog](https://appy.ai/changelog)
+- [Blog](https://appy.ai/blog)
+- [Compliance](https://trust.appy.ai/)
+- [Terms of service](https://appy.ai/platform/terms-of-service)
+- [Privacy policy](https://appy.ai/platform/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 33.2** — thin · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 88.9 |
+
+**Agent readiness 30.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/appyai/](https://apis.io/providers/appyai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Appyai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/appyai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
